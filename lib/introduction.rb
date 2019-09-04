@@ -5,4 +5,3 @@ end
 def name
   "josh"
 end
-introduction "name"
