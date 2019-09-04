@@ -1,2 +1,2 @@
-name = "josh"
-introduction = 'hi my name is "name"'
+def introduction "hi my name is"
+
