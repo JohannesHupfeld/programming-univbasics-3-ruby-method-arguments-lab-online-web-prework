@@ -1,5 +1,5 @@
 def introduction 
   "hi my name is"
 end
-def introduction (name)
-name = "maria"
+introduction (name)
+name = "josh"
